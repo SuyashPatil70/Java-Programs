@@ -1,0 +1,4 @@
+Gate password:patil@706681
+
+sql password:1234
+leetcode-patil@96

@@ -1,0 +1,6 @@
+Gate password:patil@706681
+sql username-system
+sql password:1234
+mysql password-suyash@123
+leetcode-patil@96
+github-https://github.com/SuyashPatil70
