@@ -1,0 +1,14 @@
+/**/
+class Rhombus{
+	public static void main(String suy[]){
+	int n=5;
+	for(int i=1i<=n;i++)
+	{
+		for(int j=i;j<n;j++)
+			System.out.print(" ");
+		for(int j=1;j<=n;j++)
+			System.out.print("*");
+	System.out.println();
+	}
+}
+}
